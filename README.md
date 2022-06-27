@@ -44,6 +44,10 @@ It consists of
 
 If you want to know more about the stack, check out [init.tips](https://init.tips)
 
+## Stack
+
+[<img alt="Typescript" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg">](https://www.typescriptlang.org) [![](https://camo.githubusercontent.com/d6f71de4a6f1be4ca064d4f9b9d13784e03591ce945c6842931880c4eaf558f6/68747470733a2f2f747270632e696f2f696d672f66617669636f6e2e69636f)](https://trpc.io) [![](https://camo.githubusercontent.com/a1543583dc3451ca1b42ecc7b012a405e9d479d6da73e2219a2d57bd858c068c/68747470733a2f2f7461696c77696e646373732e636f6d2f66617669636f6e732f66617669636f6e2d33327833322e706e673f763d33)](https://tailwindcss.com) [<img alt="TailwindCSS" width="36" height="36" src="https://camo.githubusercontent.com/7500b9cc1d0652febaab82b3a294b3898deb63bcfc23693adcc9c1236c3b9d5b/68747470733a2f2f6e6578742d617574682e6a732e6f72672f696d672f6c6f676f2f6c6f676f2d736d2e706e67">](https://next-auth.js.org) [![](https://camo.githubusercontent.com/9132b56f76208645c98e6556eafda8cd7fcb2ca0cc0dbdfffd374ec927e91657/68747470733a2f2f7777772e707269736d612e696f2f696d616765732f66617669636f6e2d33327833322e706e67)](https://prisma.io)
+
 </div>
 
 <div id="usage">
